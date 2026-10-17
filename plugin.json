@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "academic-journal-peer-reviewer",
+  "version": "1.1.0",
+  "description": "医学与医学教育中英文学术期刊审稿辅助：适用设计检查、分层问题定位、证据保真、两层文献核验及修回核查。Structured medical and medical education peer-review assistance with evidence-preserving reports.",
+  "author": {
+    "name": "She Kang"
+  }
+}
